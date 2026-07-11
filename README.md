@@ -78,16 +78,6 @@ This is especially useful for:
 
 ---
 
-## Preview
-
-Below is a rendered view of the assembled knuckle joint:
-
-![Preview](preview.png)
-
-Visit my [portfolio](https://austin-ngobeni.vercel.app/) to view the animation
-
----
-
 ## Notes
 
 * All dimensions and proportions are for demonstration purposes
